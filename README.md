@@ -19,7 +19,7 @@
 - 🔬 Técnico em Química na **ALS Tribology Brasil**, trabalhando com análise de óleo e fluidos
 - 💡 Em transição de carreira: saindo do laboratório para a programação
 - 🛠️ Já construí sites reais para clientes e projetos acadêmicos (confira abaixo!)
-- 📫 Me chama no LinkedIn: [linkedin.com/in/luisoliveirasv/](https://linkedin.com/in/luisoliveirasv/)
+- 📫 Me chama no LinkedIn: [linkedin.com/in/luisoliveirasv](https://linkedin.com/in/luisoliveirasv/)
 
 ---
 
@@ -43,13 +43,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>💍 Nefertiti</h4>
+      <h4>💍 <a href="https://github.com/LuisOliveira099/Nefra">Nefertiti</a></h4>
       <p>Site catálogo para marca de colares artesanais feitos à mão em BH, com carrinho de compras, filtro de categorias e "monte seu combo".</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
     <td width="50%">
-      <h4>💰 Financy Academy</h4>
+      <h4>💰 <a href="https://github.com/LuisOliveira099/FinanceAcademy">Financy Academy</a></h4>
       <p>Projeto acadêmico em grupo (5 integrantes): plataforma de educação financeira com orçamento, investimentos, dívidas, aposentadoria e quiz interativo com pontuação.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -58,11 +58,15 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>💈 Black Crown</h4>
+      <h4>💈 Black Crown <sub>(em breve no GitHub)</sub></h4>
       <p>Sistema de agendamento para barbearia: login, agenda clicável de horários, gestão de serviços e preços.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%">
+      <h4>➕ Seu próximo projeto</h4>
+      <p>Reserve este espaço pro próximo desafio — commit por commit, saindo do laboratório e entrando na TI.</p>
     </td>
   </tr>
 </table>
