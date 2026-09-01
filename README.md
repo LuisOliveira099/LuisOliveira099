@@ -64,10 +64,6 @@
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
-    <td width="50%">
-      <h4>➕ Seu próximo projeto</h4>
-      <p>Reserve este espaço pro próximo desafio — commit por commit, saindo do laboratório e entrando na TI.</p>
-    </td>
   </tr>
 </table>
 
