@@ -8,7 +8,6 @@
   <a href="https://linkedin.com/in/luisoliveirasv/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LuisOliveira099&label=Visualiza%C3%A7%C3%B5es&color=58a6ff&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
 ---
