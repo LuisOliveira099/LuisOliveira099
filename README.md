@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/LuisOliveira099">
+  <a href="https://linkedin.com/in/luisoliveirasv/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=LuisOliveira099&label=Visualiza%C3%A7%C3%B5es&color=58a6ff&style=for-the-badge" alt="Visitor Count"/>
@@ -19,7 +19,7 @@
 - 🔬 Técnico em Química na **ALS Tribology Brasil**, trabalhando com análise de óleo e fluidos
 - 💡 Em transição de carreira: saindo do laboratório para a programação
 - 🛠️ Já construí sites reais para clientes e projetos acadêmicos (confira abaixo!)
-- 📫 Me chama no LinkedIn: [linkedin.com/in/luis-oliveira-89303a302](https://linkedin.com/in/luis-oliveira-89303a302)
+- 📫 Me chama no LinkedIn: [linkedin.com/in/luisoliveirasv/](https://linkedin.com/in/luisoliveirasv/)
 
 ---
 
