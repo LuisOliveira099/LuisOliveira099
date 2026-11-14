@@ -10,13 +10,13 @@
   <a href="mailto:luisfelipeoliveira099@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </p>
 
-<h2 align="center">👤 Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 <table align="center">
 <tr>
 <td width="70%">
 
-Olá! 👋 Eu sou o **Luís Felipe**, estudante de **Sistemas de Informação** e **Técnico em Química**. Estou em transição de carreira para a área de TI e uso projetos práticos para aprender desenvolvimento web, de layouts em HTML e CSS até sistemas com banco de dados. Levo do laboratório o rigor com processos, a atenção aos detalhes e o cumprimento de prazos.
+Olá! Eu sou o **Luís Felipe**, estudante de **Sistemas de Informação** e **Técnico em Química**. Estou em transição de carreira para a área de TI e uso projetos práticos para aprender desenvolvimento web, de layouts em HTML e CSS até sistemas com banco de dados. Levo do laboratório o rigor com processos, a atenção aos detalhes e o cumprimento de prazos.
 
 🎓 Cursando Sistemas de Informação na **PUC Minas**<br>
 🧪 Técnico em Química na **ALS Tribology Brasil** (análise de fluidos)<br>
@@ -32,7 +32,7 @@ Olá! 👋 Eu sou o **Luís Felipe**, estudante de **Sistemas de Informação** 
 </tr>
 </table>
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -54,7 +54,7 @@ Olá! 👋 Eu sou o **Luís Felipe**, estudante de **Sistemas de Informação** 
   <img src="https://img.shields.io/badge/Kanban-000000?style=flat-square" alt="Kanban" />
 </p>
 
-<h2 align="center">📁 Projetos em destaque</h2>
+<h2 align="center">Projetos em destaque</h2>
 
 <table align="center">
 <tr>
