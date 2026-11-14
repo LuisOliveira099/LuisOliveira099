@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Bem-vindo+ao+GitHub+do+Lu%C3%ADs+%3C%2F%3E&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+Front-end+e+C%23&descSize=16&descAlignY=58" alt="Banner do perfil" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=T%C3%A9cnico+em+Qu%C3%ADmica+em+transi%C3%A7%C3%A3o+para+TI;Estudando+Front-end+completo+e+C%23;Em+busca+de+est%C3%A1gio+em+desenvolvimento+web" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Graduando+na+PUC+Minas" alt="Texto animado" />
 
 </div>
 
@@ -94,15 +92,12 @@ Plataforma de educação financeira com módulos de orçamento, investimentos, d
   <a href="https://github.com/LuisOliveira099?tab=repositories">Ver todos os repositórios →</a>
 </p>
 
-<h2 align="center">📊 Estatísticas</h2>
+<h2 align="center">📈 Contribuições</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisOliveira099&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=LuisOliveira099&theme=github-dark-blue&hide_border=false&locale=pt_BR" alt="Sequência de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisOliveira099/LuisOliveira099/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisOliveira099/LuisOliveira099/output/github-contribution-grid-snake.svg" />
+    <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/LuisOliveira099/LuisOliveira099/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisOliveira099&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=false&custom_title=Gr%C3%A1fico+de+Contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="Rodapé" />
