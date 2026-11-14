@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Graduando+na+PUC+Minas" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Graduando+na+PUC+Minas" alt="Texto animado" />
 
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisoliveirasv"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://github.com/LuisOliveira099"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:luisfelipeoliveira099@gmail.com"><img src="https://img.shields.io/badge/E--mail-21262d?style=flat-square&logo=gmail&logoColor=EA4335" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/luisoliveirasv"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/LuisOliveira099"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:luisfelipeoliveira099@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </p>
 
 <h2 align="center">👤 Sobre mim</h2>
@@ -35,23 +35,23 @@ Olá! 👋 Eu sou o **Luís Felipe**, estudante de **Sistemas de Informação** 
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-21262d?style=flat-square&logo=dotnet&logoColor=512BD4" alt="C#" />
-  <img src="https://img.shields.io/badge/Bootstrap-21262d?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-21262d?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Axios-21262d?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
-  <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Scrum-21262d?style=flat-square" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-21262d?style=flat-square" alt="Kanban" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-000000?style=flat-square" alt="Kanban" />
 </p>
 
 <h2 align="center">📁 Projetos em destaque</h2>
